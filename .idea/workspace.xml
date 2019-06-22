@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="789ec4f5-9df9-473b-a0a1-b8a71ddad1d1" name="Default" comment="" />
+    <list default="true" id="789ec4f5-9df9-473b-a0a1-b8a71ddad1d1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Java_Object/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java_Object/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,8 +82,8 @@
       <file leaf-file-name="TestDesign.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Java_Object/src/test/Design/TestDesign.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="299">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -483,7 +485,7 @@
       <workItem from="1559028426782" duration="1425000" />
       <workItem from="1559035295905" duration="1682000" />
       <workItem from="1559439149483" duration="671000" />
-      <workItem from="1561207852907" duration="291000" />
+      <workItem from="1561207852907" duration="326000" />
     </task>
     <task id="LOCAL-00001" summary="helllo">
       <created>1561207968883</created>
@@ -499,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561207986767</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="helllo">
+      <created>1561208167274</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561208167274</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -535,7 +544,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15751000" />
+    <option name="totallyTimeSpent" value="15786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -951,8 +960,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Java_Object/src/test/Design/TestDesign.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="299">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
